@@ -14,4 +14,4 @@ Based on Ariel Rocholl's code:
 
 
 INSTALLATION:
-Copy the directory ArduinoNunchuk to your libraries directory (Arduino/libraries).
+Copy the directory LANC_Library to your libraries directory (Arduino/libraries).
